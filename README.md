@@ -1,4 +1,4 @@
- ResearchBOT - Retrieval-Augmented Generation (RAG) LLM for Custom Document Chatbots 
+# ResearchBOT - Retrieval-Augmented Generation (RAG) LLM for Custom Document Chatbots 
 ResearchBOT
 
 Setting Up Your ChatGPT with Custom PDF Data Using LangChain
